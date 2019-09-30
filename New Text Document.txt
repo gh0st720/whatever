@@ -1,0 +1,10 @@
+ if (numberOfGuesses>20):
+        gameOver=True
+        print(" Game Over.")
+    if (playerGuess == theComputerNumber):
+        gameOver=True
+        print("You Win!")
+
+
+
+        
